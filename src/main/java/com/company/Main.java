@@ -7,6 +7,22 @@ public class Main {
 
     private static final String url = "localhost";
     private static final String ErrorMessage = "NO SERVIVCE!";
+    private InetAddress ip;
+
+    public Main(){
+
+    }
+
+
+    public void getMyInformation(){
+        try {
+            ip = InetAddress.getLocalHost();
+            System.out.println("your ip is: "+ip);
+
+        }catch (Exception e ){
+            System.out.println("Exception by: "+e.toString());
+        }
+    }
 
 
     /*TODO:
