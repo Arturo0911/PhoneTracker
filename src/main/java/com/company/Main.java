@@ -28,18 +28,9 @@ public class Main {
     /*TODO:
     * 1.- find which protocols are running on the cellphones ?
     * 2.- How can i get information about that/those protocols ?
-    *  Learn how the system of comunications like FDMA and CDMA (There are for
-    * cellphones comunications.
-    * 3.- Frequency division multiple access and Code division multiple access
-    *       are develop to distinguish signals from serveral different transmitters
-    *   3.1.- In FDMA every time in transmitting and receiving signal from a cell is different with the
-    *       transmission with the cell neighboting
     *
-    *
-    * How a cellphone work ?
-    *
-    * The cellphone use a protocols of comunications arre
-    *
+    *Learn how the system of comunications like FDMA and CDMA (There are for
+     * cellphones comunications) working for both
     *
     *
     *
